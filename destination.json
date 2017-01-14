@@ -1,0 +1,7 @@
+{
+    "location": "京都", 
+    "nextLocation": {
+        "distance": "200", 
+        "name": "長崎"
+    }
+}
