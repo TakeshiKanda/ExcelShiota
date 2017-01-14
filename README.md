@@ -1,7 +1,4 @@
-# 2017/01/07 @新宿エクセルシオール
 
-* tl;dr
-
-
-* idea
-- リアルタイム同期型ホワイトボード
+- 基調色
+https://flatuicolors.com/
+(ALIZIAN)
